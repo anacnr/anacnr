@@ -12,7 +12,7 @@ Possuo conhecimento com o banco de dados MySQL e SQL Server.
 
 ## Meu progresso
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolcodestudy&theme=dark&show_icons=true&title_color=E0FFFF&text_color=E0FFFF&bg_color=30,FF00FF,000000&icon_color=000000&hide_border=true&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacnr&theme=dark&show_icons=true&title_color=E0FFFF&text_color=E0FFFF&bg_color=30,FF00FF,000000&icon_color=000000&hide_border=true&locale=pt-br)
 
 ## Referência
 
